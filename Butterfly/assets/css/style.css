@@ -1288,7 +1288,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-container {
-  position: center;
+  position: relative;
 }
 
 .portfolio-details .portfolio-details-carousel {
