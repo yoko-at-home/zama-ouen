@@ -421,6 +421,7 @@ section {
   margin-top: 40px;
 }
 
+
 .about .icon-box .icon {
   float: left;
   display: flex;
@@ -904,7 +905,7 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 100px;
+  width: 120px;
   border-radius: 50%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
@@ -1049,6 +1050,7 @@ section {
   font-size: 13px;
   font-weight: 400;
   color: #aaaaaa;
+  scroll-padding-top: 25px;
 }
 
 .team .member .member-info p {
@@ -1077,6 +1079,25 @@ section {
 }
 
 .gallery .gallery-item:hover img {
+  transform: scale(1.1);
+}
+
+/*--------------------------------------------------------------
+# Gallery-sub
+--------------------------------------------------------------*/
+
+.gallery-sub .gallery-item {
+  overflow: hidden;
+  border-right: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+  width: 300px;
+}
+
+.gallery-sub .gallery-item img {
+  transition: all ease-in-out 0.4s;
+}
+
+.gallery-sub .gallery-item:hover img {
   transform: scale(1.1);
 }
 
@@ -1288,11 +1309,12 @@ section {
 }
 
 .portfolio-details .portfolio-details-container {
-  position: relative;
+  position: center;
+ 
 }
 
 .portfolio-details .portfolio-details-carousel {
-  position: relative;
+  position: center;
   z-index: 1;
 }
 
