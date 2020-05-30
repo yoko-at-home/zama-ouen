@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+This website is created mainly using the following template
 
 Template Name: Butterfly
 Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
