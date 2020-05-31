@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+# zama-ouen is created using the following template
 
 Template Name: Butterfly
 Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
