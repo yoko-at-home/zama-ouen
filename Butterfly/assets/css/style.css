@@ -1563,3 +1563,11 @@ section {
     text-align: center;
   }
 }
+
+.portfolio-description h2{
+  color: #eaecdc;;
+}
+
+.portfolio-description p{
+  color: #eaecdc;
+}
