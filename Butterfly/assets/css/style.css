@@ -1376,11 +1376,13 @@ section {
   width: 50%;
   font-size: 26px;
   font-weight: 700;
+  font-weight: bold;
   margin-bottom: 20px;
 }
 
 .portfolio-details .portfolio-description p {
   padding: 0 0 0 0;
+  font-weight: bold;
 }
 
 @media (max-width: 768px) {
@@ -1570,4 +1572,10 @@ section {
 
 .portfolio-description p{
   color: #eaecdc;
+}
+
+.container-usagida {
+  padding-top: 84px;
+  background-image: url(../../../shop/usagida/img/1.jpg);
+  height: 600px;
 }
